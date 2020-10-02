@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "770805538519",
+    "firebase_url": "https://skillship-society-viba-a327b.firebaseio.com",
+    "project_id": "skillship-society-viba-a327b",
+    "storage_bucket": "skillship-society-viba-a327b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770805538519:android:c8b9b12e2f7e717075da92",
+        "android_client_info": {
+          "package_name": "com.android.skillshipsocietyviba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770805538519-vht20bfoh0vnl259onu7n2k33l90sogp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrKnivavGSNwE5xCq5xv_DWt4wTg2m5EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770805538519-vht20bfoh0vnl259onu7n2k33l90sogp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
